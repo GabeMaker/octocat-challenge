@@ -1,1 +1,4 @@
-Explain what a branch is, in your own words
+A branch is an independent line of development in a project.
+A new branch can be created to work on new features without changing the 'master' (original) branch.
+Any commits made while on a branch are logged separely to those on the master.
+A branch can be 'merged' into another when there is no need to keep the work separate (e.g. when it is tested, clean and ready).
