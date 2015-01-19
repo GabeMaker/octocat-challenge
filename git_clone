@@ -1,1 +1,11 @@
-Explain what git clone does, in your own words
+git clone [GitHub repo URL]
+
+example: git clone https://github.com/GabeMaker/octocat-challenge.git
+
+This command:
+- creates a new directory in the current working directory called "octocat-challenge" (and changes into it)
+- runs the 'git init' command
+- runs 'git remote add origin https://github.com/GabeMaker/octocat-challenge.git'
+- runs 'git pull'
+
+This has the effect of creating a local repo that is linked (by push and pull) to the cloned repo.
