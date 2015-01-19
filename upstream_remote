@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is the repo that you (and other collaborators) clone and pull changes from when working on a project. 
